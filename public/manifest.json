@@ -1,0 +1,15 @@
+{
+  "name": "FlashCard Vault",
+  "short_name": "FlashCard Vault",
+  "description": "Offline flashcard study system",
+  "start_url": "/flashcard-vault/",
+  "scope": "/flashcard-vault/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#22c55e",
+  "orientation": "any",
+  "icons": [
+    {"src": "/flashcard-vault/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/flashcard-vault/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
